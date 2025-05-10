@@ -1,7 +1,9 @@
 package evaluations.level11.gameobjects;
 import evaluations.level11.GameObject;
 import evaluations.level11.Movable;
-//package evaluations.level11.gameobjects;
+//
+// package evaluations.level11.gameobjects;
+// package evaluations.level11.gameobjects;
 
 public class SpaceShip extends GameObject implements Movable{
     private String name;

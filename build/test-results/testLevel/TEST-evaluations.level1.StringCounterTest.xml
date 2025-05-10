@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="evaluations.level1.StringCounterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-05-10T14:40:00" hostname="DESKTOP-TUURA6M" time="0.272">
-  <properties/>
-  <testcase name="testCountThreeStrings()" classname="evaluations.level1.StringCounterTest" time="0.267"/>
-  <testcase name="testCountTwoStrings()" classname="evaluations.level1.StringCounterTest" time="0.001"/>
-  <testcase name="testCountOneString()" classname="evaluations.level1.StringCounterTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

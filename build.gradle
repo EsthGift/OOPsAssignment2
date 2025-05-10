@@ -33,6 +33,12 @@ tasks.named('test') {
     // Use JUnit Platform for unit tests.
     useJUnitPlatform()
 }
+test {
+    forkEvery = 0
+    maxParallelForks = 1
+    useJUnitPlatform() // optional, if you're using JUnit 5
+}
+
 
 
 // Test tasks from here onwards
