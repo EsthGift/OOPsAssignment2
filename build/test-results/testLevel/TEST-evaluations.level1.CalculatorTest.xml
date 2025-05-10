@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="evaluations.level1.CalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-05-10T14:40:01" hostname="DESKTOP-TUURA6M" time="0.018">
+  <properties/>
+  <testcase name="testAddLong()" classname="evaluations.level1.CalculatorTest" time="0.003"/>
+  <testcase name="testAddFloat()" classname="evaluations.level1.CalculatorTest" time="0.011"/>
+  <testcase name="testAddDouble()" classname="evaluations.level1.CalculatorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
